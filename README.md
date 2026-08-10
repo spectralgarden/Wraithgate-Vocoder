@@ -1,4 +1,4 @@
-# 👻 Wraithgate Vocoder (Spectral Garden)
+#  Wraithgate Vocoder (Spectral Garden)
 *Ethereal 32-Band Spectral & Ghost-Driven Vocoder for Windows VST3*
 
 **Wraithgate Vocoder** is a high-performance, real-time spectral morphing audio processor. It cross-analyzes the frequency characteristics of an incoming **Modulator** (traditionally a vocal or speech source) with a **Carrier** (internal synthesized waves or an external sidechained instrument) through an optimized 32-band filterbank, powered by an immersive **Spectral Ghost Engine**.
